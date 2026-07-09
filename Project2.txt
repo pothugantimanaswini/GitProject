@@ -1,1 +1,2 @@
 GitHub Project Session
+This is the session for data science students
